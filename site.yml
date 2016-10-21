@@ -1,0 +1,4 @@
+#!/usr/bin/env ansible-playbook
+---
+# file: site.yml
+- include: hello-world.yml

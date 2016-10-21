@@ -1,0 +1,3 @@
+---
+# locals properties
+ansible_connection: local

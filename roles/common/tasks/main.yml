@@ -1,0 +1,4 @@
+---
+# file: roles/common/tasks/main.yml
+- name: Hello World
+  command: "echo Hello World plainText: {{ thisIsClearText }}, secureText: {{ somevar }}"

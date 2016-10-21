@@ -1,0 +1,4 @@
+---
+# locals properties
+thisIsClearText: clear
+somevar: "{{ vault_somevar }}"

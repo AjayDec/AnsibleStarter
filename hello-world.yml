@@ -1,0 +1,6 @@
+#!/usr/bin/env ansible-playbook
+---
+# file: hello-world.yml
+- hosts: locals
+  roles:
+    - common
